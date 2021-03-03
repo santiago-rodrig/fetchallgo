@@ -1,0 +1,10 @@
+0.44s   10313 https://golang.org
+0.83s   10413 https://godoc.org
+0.85s    4154 http://gopl.io
+0.85s elapsed
+0.60s   10413 https://pkg.go.dev/
+0.84s  128445 https://github.com/santiago-rodrig/lissajous/
+0.84s elapsed
+Get "http://does.not.exits/": dial tcp: lookup does.not.exits: no such host
+0.52s   10413 https://pkg.go.dev/
+0.52s elapsed
